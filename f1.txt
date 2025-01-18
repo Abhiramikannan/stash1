@@ -1,2 +1,6 @@
 hi hello
+<<<<<<< Updated upstream
 welcome to training class
+=======
+how are you
+>>>>>>> Stashed changes
